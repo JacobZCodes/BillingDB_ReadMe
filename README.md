@@ -52,11 +52,11 @@ Here is the GitHub Actions workflow configuration that schedules the script to r
 
 ## Screenshots
 ### Output of succesful build:
-![successful build](screenshots/build_success.png)
+![successful build](build_success.png)
 ### Email received in inbox:
-![email in inbox](screenshots/inbox.png)
+![email in inbox](inbox.png)
 ### Email opened:
-![opened email](screenshots/email.png)
+![opened email](email.png)
 
 
 
